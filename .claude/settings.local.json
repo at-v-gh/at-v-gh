@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd Matrix-themed GitHub profile\n\n- Animated header with venom effect\n- Typing SVG animation\n- Tech stack badges\n- GitHub stats with Matrix theme\n- Activity graph and snake animation workflow\n- Trophy display\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
