@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="https://at-v.net">
-    <img src="https://img.shields.io/badge/@V.NET-Browser_OS-00FF42?style=for-the-badge&labelColor=0D1117&color=00FF42"/>
+    <img src="https://img.shields.io/badge/@V.NET-Browser_OS-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=00FF42&labelColor=0D1117"/>
   </a>
   &nbsp;
   <a href="https://appoint.at-v.net">
-    <img src="https://img.shields.io/badge/Appoint-Booking_SaaS-00FF42?style=for-the-badge&labelColor=0D1117&color=00FF42"/>
+    <img src="https://img.shields.io/badge/Appoint-Booking_SaaS-0D1117?style=for-the-badge&logo=googlecalendar&logoColor=00FF42&labelColor=0D1117"/>
   </a>
   &nbsp;
   <a href="https://secret.at-v.net">
-    <img src="https://img.shields.io/badge/SECRET-Zero_Knowledge-00FF42?style=for-the-badge&labelColor=0D1117&color=00FF42"/>
+    <img src="https://img.shields.io/badge/SECRET-Zero_Knowledge-0D1117?style=for-the-badge&logo=keycdn&logoColor=00FF42&labelColor=0D1117"/>
   </a>
 </p>
 
@@ -46,22 +46,30 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=at-v-gh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF42&icon_color=00FF42&text_color=C9D1D9&border_radius=10" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at-v-gh&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF42&text_color=C9D1D9&border_radius=10" height="165"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=at-v-gh&hide_border=true&background=0D1117&stroke=00FF42&ring=00FF42&fire=00FF42&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF42&sideLabels=00FF42&dates=6E7681&border_radius=10"/>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language"/>
+  &nbsp;
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
 </p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
+  &nbsp;
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time"/>
+</p>
+
+<p align="center"><sub>Stats auto-generate via GitHub Actions</sub></p>
+
+---
+
+<h3 align="center">Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=at-v-gh&bg_color=0D1117&color=00FF42&line=00FF42&point=C9D1D9&area_color=00FF42&area=true&hide_border=true&radius=10"/>
 </p>
-
----
-
-<h3 align="center">Contribution Snake</h3>
 
 <p align="center">
   <picture>
@@ -71,16 +79,14 @@
   </picture>
 </p>
 
-<p align="center"><i>Snake generates after first push via GitHub Actions</i></p>
-
 ---
 
 <p align="center">
-  <a href="https://at-v.net"><img src="https://img.shields.io/badge/Website-at--v.net-00FF42?style=flat-square&labelColor=0D1117"/></a>
+  <a href="https://at-v.net"><img src="https://img.shields.io/badge/at--v.net-0D1117?style=flat-square&logo=firefox&logoColor=00FF42"/></a>
   &nbsp;
-  <a href="mailto:contact@at-v.net"><img src="https://img.shields.io/badge/Email-contact@at--v.net-00FF42?style=flat-square&labelColor=0D1117"/></a>
+  <a href="mailto:contact@at-v.net"><img src="https://img.shields.io/badge/contact@at--v.net-0D1117?style=flat-square&logo=gmail&logoColor=00FF42"/></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=at-v-gh&color=00FF42&style=flat-square&label=Profile%20Views"/>
+  <img src="https://komarev.com/ghpvc/?username=at-v-gh&color=0D1117&style=flat-square&label=views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&section=footer"/>
