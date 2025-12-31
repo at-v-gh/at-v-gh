@@ -1,75 +1,69 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003300,50:00ff00,100:003300&height=300&section=header&text=V&fontSize=150&fontColor=00ff00&animation=twinkling&stroke=00ff00&strokeWidth=3"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:003300,100:0D1117&section=header&text=@V&fontColor=00FF00&fontSize=80&animation=twinkling&fontAlignY=38&desc=Software%20Engineer&descColor=00FF00&descSize=18&descAlignY=58"/>
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=500&lines=Building+the+future,+one+commit+at+a+time;Crafting+elegant+solutions;Making+complexity+simple" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=The+Matrix+has+you...;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+<br/>
 
-</div>
+<h2 align="center">Projects</h2>
 
----
+<p align="center">
+  <a href="https://at-v.net">
+    <img src="https://img.shields.io/badge/@V.NET-Browser_OS-00FF00?style=for-the-badge&labelColor=0D1117"/>
+  </a>
+  <a href="https://appoint.at-v.net">
+    <img src="https://img.shields.io/badge/Appoint-Booking_SaaS-00FF00?style=for-the-badge&labelColor=0D1117"/>
+  </a>
+  <a href="https://secret.at-v.net">
+    <img src="https://img.shields.io/badge/SECRET-Zero_Knowledge-00FF00?style=for-the-badge&labelColor=0D1117"/>
+  </a>
+</p>
 
-<div align="center">
+<br/>
 
-### `> ./skills`
+<h2 align="center">Tech Stack</h2>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-003300?style=for-the-badge&logo=typescript&logoColor=00FF00)
-![Python](https://img.shields.io/badge/Python-003300?style=for-the-badge&logo=python&logoColor=00FF00)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=00FF00)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-003300?style=for-the-badge&logo=kubernetes&logoColor=00FF00)
-![React](https://img.shields.io/badge/React-003300?style=for-the-badge&logo=react&logoColor=00FF00)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,ts,vue,react,docker,kubernetes,azure,aws,cloudflare,postgres,redis,git&theme=dark&perline=8" />
+</p>
 
-</div>
+<br/>
 
----
+<h2 align="center">Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=at-v-gh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&ring_color=00FF00"/>
+</p>
 
-### `> ./stats`
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=at-v-gh&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=888888"/>
+</p>
 
-<a href="https://github.com/at-v-gh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=at-v-gh&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=at-v-gh&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=at-v-gh&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=003300&area=true&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=at-v-gh&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00"/>
+<br/>
 
-</div>
+<h2 align="center">Contributions</h2>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
-<div align="center">
+<br/>
 
-### `> ./activity`
+<p align="center">
+  <a href="https://at-v.net"><img src="https://img.shields.io/badge/at--v.net-0D1117?style=flat-square&logo=firefox&logoColor=00FF00"/></a>
+  <a href="mailto:contact@at-v.net"><img src="https://img.shields.io/badge/contact@at--v.net-0D1117?style=flat-square&logo=gmail&logoColor=00FF00"/></a>
+  <img src="https://komarev.com/ghpvc/?username=at-v-gh&color=00FF00&style=flat-square&label=views"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=at-v-gh&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=003300&area=true&hide_border=true"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### `> ./trophies`
-
-<img src="https://github-profile-trophy.vercel.app/?username=at-v-gh&theme=matrix&no-frame=true&no-bg=true&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=at-v-gh&color=00FF00&style=flat-square&label=Visitors)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:00ff00,100:003300&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:003300,100:0D1117&section=footer"/>
