@@ -23,5 +23,6 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 1
           THEME: github_dark
+          ADD_PRIVATE_CONTRIBUTIONS: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}

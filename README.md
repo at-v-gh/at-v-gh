@@ -71,14 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=at-v-gh&bg_color=0D1117&color=00FF42&line=00FF42&point=C9D1D9&area_color=00FF42&area=true&hide_border=true&radius=10"/>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/at-v-gh/at-v-gh/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
